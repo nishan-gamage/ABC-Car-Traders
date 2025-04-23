@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\user_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\abc_car_sale.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\abc_car_sale.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\user_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\user_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\user_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\user_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\parts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\user_vehicle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_vehicle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\user_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\user_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|c:\\users\\hi\\source\\repos\\abc_car_sale\\abc_car_sale\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\abc_car_sale\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D82FE937-31B4-4A57-9B34-65A414328622}|ABC_Car_Sale\\ABC_Car_Sale.csproj|solutionrelative:abc_car_sale\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Register.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Register.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Register.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:02:29.293Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ABC_Car_Sale",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\ABC_Car_Sale.csproj",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\ABC_Car_Sale.csproj",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\ABC_Car_Sale.csproj",
+              "RelativeToolTip": "ABC_Car_Sale\\ABC_Car_Sale.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T05:37:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form2.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Form2.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form2.cs [Design]*",
+              "RelativeToolTip": "ABC_Car_Sale\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:23:32.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Checkout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:56:57.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Report1.rdlc",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Report1.rdlc [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-09-20T02:44:16.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\DataSet1.xsd",
+              "RelativeToolTip": "ABC_Car_Sale\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-20T02:47:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Customers.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Customers.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Customers.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:54:06.991Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Dashboard.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:03:28.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Checkout.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:55:13.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User_Vehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Vehicle.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Vehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:31:15.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Vehicle.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Vehicle.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwE8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:53:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form1.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:43:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Form1.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:43:28.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User_Parts.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Parts.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Parts.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Parts.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Parts.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:18:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User_Parts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Parts.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Parts.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Parts.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Parts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:17:14.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Orders.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Orders.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Orders.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Orders.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:01:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Orders.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Orders.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Orders.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:37:39.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserLogin.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\UserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:53:14.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserLogin.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserLogin.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\UserLogin.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:53:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Parts.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Parts.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Parts.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Parts.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Parts.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAADwv5wAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:17:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Parts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Parts.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Parts.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Parts.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Parts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:17:45.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAH8UAAAAAAAAAAAgwI4UAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-10T10:57:34.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Checkout.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Checkout.Designer.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Checkout.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Checkout.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:51:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User_Vehicle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Vehicle.Designer.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Vehicle.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Vehicle.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAnwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:29:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User_Register.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Register.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\User_Register.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\User_Register.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\User_Register.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:10:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Register.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Register.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Register.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:59:01.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Register.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Register.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Register.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:59:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Dashboard.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Dashboard.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowFUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:06:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Vehicle.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\Vehicle.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:53:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Vehicle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\Vehicle.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\Vehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:53:12.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserDashboard.cs",
+              "RelativeToolTip": "ABC_Car_Sale\\UserDashboard.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:10:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Sale\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\Hi\\source\\repos\\ABC_Car_Sale\\ABC_Car_Sale\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Sale\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:10:53.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

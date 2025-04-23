@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
